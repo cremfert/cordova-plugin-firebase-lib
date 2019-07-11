@@ -88,6 +88,8 @@
         <source-file src="src/ios/AppDelegate+FirebasePlugin.m"/>
         <header-file src="src/ios/FirebasePlugin.h"/>
         <source-file src="src/ios/FirebasePlugin.m"/>
+        <header-file src="src/ios/NSData+Serialize.h" />
+		<source-file src="src/ios/NSData+Serialize.m" />
 
         <podspec>
             <config>
